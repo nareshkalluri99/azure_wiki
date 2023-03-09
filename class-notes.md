@@ -1,4 +1,6 @@
-03-08-2023
+**03-08-2023**
+
+```
 cd, ls, pwd, whoami, which
 pwd
 fs directory
@@ -19,3 +21,4 @@ rpm - redhat package management
 deb - ubuntu
 systemctl - control software statr/stop/status
 file redirection: > , >>
+```
