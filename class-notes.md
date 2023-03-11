@@ -1,3 +1,37 @@
+**03-10-2022**
+`which
+mkdir -p make directory
+rm
+rmdir - remove directory
+ps
+kill 
+chmod
+chown
+export
+env
+mv
+cp
+more
+less
+tail
+head
+stderr
+stdout
+sed
+awk
+grep
+
+history
+variables
+loops
+condition
+execution
+cronjob
+mount
+tr
+cut
+wildcard
+regex`
 **03-08-2023**
 
 ```
