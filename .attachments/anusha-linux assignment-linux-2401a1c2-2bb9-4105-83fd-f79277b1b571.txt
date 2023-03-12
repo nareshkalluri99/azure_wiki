@@ -1,0 +1,72 @@
+linux assignment 
+
+nginx installation:
+
+Go to root using 
+
+sudo su 
+
+yum install nginx
+
+systemctl enable nginx 
+
+systemctl start nginx 
+
+systemctl status nginx 
+
+systemctl stop nginx 
+
+exit nginx
+
+httpd installation:
+
+yum install httpd
+
+systemctl enable httpd
+
+systemctl start httpd
+
+systemctl status httpd
+
+systemctl stop httpd
+
+
+use grep command 
+
+rpm -qa | grep httpd
+
+create a directory dir1 in /opt folder
+
+cd/opt
+mkdir dir1
+
+create work.log in dir1
+
+cd/dir1
+touch work.log
+
+write output commands lscpu, df -h, free -mh: in work.log
+
+vi work.log
+add commands in file by i
+save the file using Esc and :Wq
+run this file by using ./work.log
+
+change the permissions to 777 of work.log:
+
+chmod 777 work.log
+
+chown nobody:nobody work.log
+
+use ls -l can able to see the owner of the file 
+
+sudo -i
+
+ls -la 
+
+shows the directory where the configuration file installed after software installed 
+
+whereis httpd
+
+
+
