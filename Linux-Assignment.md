@@ -14,3 +14,5 @@ show the directory where the configuration files are installed after software in
 
 
 [satish-assignment-linux.txt](/.attachments/satish-assignment-linux-a26e161d-a360-4e8b-9420-4138368aae65.txt)
+
+[naresh-assignment-linux.txt](/.attachments/naresh-assignment-linux-7219727f-f026-42bf-863e-f5523a0e765a.txt)
