@@ -11,3 +11,6 @@ change the ownership to  both user and group with name nobody:nobody
 
 list the root directory
 show the directory where the configuration files are installed after software installation
+
+
+[satish-assignment-linux.txt](/.attachments/satish-assignment-linux-a26e161d-a360-4e8b-9420-4138368aae65.txt)
