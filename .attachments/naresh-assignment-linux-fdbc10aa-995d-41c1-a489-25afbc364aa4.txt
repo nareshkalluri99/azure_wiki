@@ -1,0 +1,75 @@
+Linux Asssignment
+
+Install nginx: 
+
+sudo yum install nginx
+
+sudo systemctl start nginx
+
+sudo systemctl status nginx 
+
+sudo systemctl stop nginx
+
+
+
+Install http: 
+ 
+sudo yum install httpd
+
+sudo systemctl start httpd
+
+sudo systemctl status httpd
+
+sudo systemctl stop httpd
+
+
+
+grep from nginx command: 
+
+rpm -qa | grep nginx 
+
+
+
+create a directory in /opt folder with name dir1 : 
+
+cd /opt 
+mkdir dir1
+
+
+
+create a file in dir1 with name work.log : 
+
+cd /dir1 
+touch work.log
+
+
+
+write the output to work.log file for the following commands lscpu, df -h, free -mh: 
+
+vi work.log 
+Added the commands on the file by using i
+Saved the file by ESC and :wq
+run this file by using ./work.log
+
+
+
+change the file permissions to 777 of work.log: 
+
+chmod 777 work.log 
+
+chown nobody:nobody work.log
+
+By using the command ls -l (Filename) can able to see the owner of the File.
+
+
+
+list the root directory: 
+
+sudo -i 
+ls -la
+
+
+
+show the directory where the configuration files are installed after software installation:
+
+whereis (name)
