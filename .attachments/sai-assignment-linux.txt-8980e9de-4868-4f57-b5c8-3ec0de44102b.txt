@@ -1,0 +1,66 @@
+Given: Linux Assignment
+
+ToDo-1:- Install Nginx
+
+sudo yum install nginx
+sudo systemctl enable nginx
+sudo systemctl start nginx
+sudo systemctl status nginx
+sudo systemctl stop nginx
+
+
+ToDo-2:- Install httpd
+
+sudo yum install httpd
+sudo systemctl enable httpd
+sudo systemctl start httpd
+sudo systemctl status httpd
+sudo systemctl stop httpd
+
+
+ToDo-3:-By Using grep command with nginx
+
+rpm -qa | grep nginx
+
+
+ToDo-4:- Create a directory folder in/opt by using name dir1
+
+cd /opt
+mkdir dir1
+
+ToDo-5:- Create a file in dir1 with name work.log
+
+cd /dir1
+touch work.log
+
+
+ToDo-6:- write the output to work.log file for the following commands lscpu, df -h, free -mh
+
+vi work.log
+Add the file by using the command i
+And then save the file by using the button ESC and enter :wq command 
+run this file by using ./work.log
+
+
+ToDO-7:-change the file permissions to 777 of work.log
+
+chmod 777 work.log 
+
+chown nobody:nobody work.log
+
+By using the command ls -l  can able to see the owner of the File.
+
+
+
+ToDo-8:-list the root directory
+
+sudo -i 
+ls -la
+
+
+
+ToDo-9:-show the directory where the configuration files are installed after software installation:
+
+whereis For both (httpd and nginx)
+
+
