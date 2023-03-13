@@ -18,3 +18,6 @@ show the directory where the configuration files are installed after software in
 [naresh-assignment-linux.txt](/.attachments/naresh-assignment-linux-e0f2d3c2-1899-4da0-96af-87cf4dcab7c8.txt)
 
 [anusha-linux assignment-linux.txt](/.attachments/anusha-linux%20assignment-linux-2401a1c2-2bb9-4105-83fd-f79277b1b571.txt)
+
+
+[sai-assignment-linux.txt.txt](/.attachments/sai-assignment-linux.txt-8980e9de-4868-4f57-b5c8-3ec0de44102b.txt)
