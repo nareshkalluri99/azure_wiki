@@ -1,5 +1,12 @@
 https://www.guru99.com/ansible-tutorial.html
 
+Examples loops:
+https://linuxconfig.org/ansible-loops-examples-and-introduction
+Example variables:
+https://www.tecmint.com/ansible-variables-and-facts/
+Example copy:
+https://www.middlewareinventory.com/blog/ansible-copy-file-or-directory-local-to-remote/
+
 Important terms used in Ansible
 Ansible server:
 The machine where Ansible is installed and from which all tasks and playbooks will be ran
