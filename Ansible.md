@@ -6,6 +6,8 @@ Example variables:
 https://www.tecmint.com/ansible-variables-and-facts/
 Example copy:
 https://www.middlewareinventory.com/blog/ansible-copy-file-or-directory-local-to-remote/
+Examples All:
+https://www.softwaretestinghelp.com/ansible-playbooks-ansible-vaults/
 
 Important terms used in Ansible
 Ansible server:
