@@ -1,0 +1,1 @@
+Ansible is a automation tool which is used to configure system deploy software and more IT tasks the main goal is to simplify and easy-of-use it mainly focus on reliability,security and featuring the usage on the other side Git is a devops tool used to manage code and it is a free open source version control system which is used to handle projects effectively    
