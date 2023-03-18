@@ -1,0 +1,77 @@
+
+Naresh Kalluri
+nareshkalluri.99@gmail.com
+
+Ansible Tasks
+
+Steps:  
+
+1.Installed Ansible by using the below commands
+
+sudo yum install epel-release
+sudo yum install ansible
+
+
+2.By checking the Ansible version 
+
+ansible --version
+
+
+3.Done SSH : 
+
+ssh-keygen 
+
+By using this command i generated the id_rsa and id_rsa.pub key files.
+
+
+4.Next I check the both machines ip's :
+
+ip a s
+
+
+5.Copied another machine ip : 
+
+sudo ssh-copy-id 10.0.0.138
+
+
+6.Tried whether ansible connection is working or not : 
+
+ansible localhost -m ping -v
+
+
+7.Tried connecting another machine: 
+
+ssh naree@10.0.0.138
+it gives me an error states that enable cockpit.socket
+systemctl enable --now cockpit.socket
+it asks the password of the another machine when you given the authentication completed.
+
+
+8.if I see on the other machine after adding into known_hosts:
+
+cd .ssh
+ls -la
+authorized_keys file created on the other machine.
+
+
+9.Adding server on hosts file on master node: 
+
+cd /etc/ansible
+ls -la
+vi hosts
+added server on the hosts file.
+
+
+10.Added playbooks.yml files: 
+
+For example , vi playbook-install.yml , vi playbook-adduser.yml 
+
+
+11.Run the playbooks: 
+
+ansible-playbook playbook-install.yml 
+ansible-playbook playbook-adduser.yml
+
+12.After the Playbooks were succesfully executed, I went to the client node and verified that the softwares , file permissions or the executed task completed or not.
+
+
