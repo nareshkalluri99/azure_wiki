@@ -1,0 +1,47 @@
+Given: Ansible
+
+ToDo-1:-First we need to install the ansible in our machine by using the commands which i listed below.
+
+yum install epel-release
+yum install ansible
+
+ToDo-2:- We need to go to ansible by using the command. After the todo1 we need to check the ansible version by checking with the command.
+
+cd /etc/ansible/
+ansible --version
+ls
+
+ToDo-3:- After that we need to go hosts and view that and also before that we need to see another machine ip address. All the commands listed below.
+
+vi hosts
+by using i we need to insert the ip address
+ip addr
+
+
+ToDo-4:- Now we need to generate the keys by using the ssh command.and then we need to go cd and then we need to use the cd root ssh command to see or identify the keys what we generated.
+
+ssh-keygen
+cd
+cd /root/.ssh
+
+
+ToDo-5:- after that i will ping my second machine ip address to fist machine.
+
+ansible 192.  -m ping
+
+
+ToDo-6:- It will conf the second machin in first one then now we need to do the playbooks by using the commands.
+
+vi playbook-install.ymi
+
+after that we need to click i and copy the playbook script and save by using escape and click :wq to save. And ru the ansible command.
+
+ansible-playbook playbook-install.yml
+
+
+
+ToDO-7:-  After the successfully run i went to the another machine and checked by using the command.
+
+systemctl status (inside software name)
+
+My work was successfully go through so it show running actively.
