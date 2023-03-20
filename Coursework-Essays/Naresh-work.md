@@ -70,7 +70,7 @@ status
   pull
 add origin
 
-Git Configure: 
+**Git Configure:** 
 
 git configure --global user.name "username"
 git configure --global user.email "useremail"
