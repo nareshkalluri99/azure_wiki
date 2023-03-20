@@ -38,4 +38,14 @@ Here the below link shows how to download Ansible on Linux(CentOS)
 
 https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-ansible-on-centos-7
 
+**Download Docker:** 
+
+For Windows: 
+
+https://medium.com/devops-with-valentine/how-to-install-docker-on-windows-10-11-step-by-step-83074a80e6f9
+
+For Mac: 
+
+https://www.geeksforgeeks.org/how-to-install-docker-on-macos/
+
 
