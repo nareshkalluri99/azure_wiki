@@ -1,0 +1,99 @@
+Anusha Thottempudi
+anuthottempudi9@gmail.com
+
+ansible tasks
+
+setp:1
+
+ansible installation 
+
+sudo yum install epel-release
+sudo yum install ansible 
+sudo ansible --version 
+
+step:2
+
+ssh:
+
+ssh-keygen
+
+by using this generated id_rsa and id_rsa.pub key file
+
+step:3
+
+check ip addrees for localhost
+
+ip addr 
+[192.168.1.182]
+
+step:4
+
+sudo ssh-copy-id 192.168.1.182
+
+ls-la
+
+step:5
+
+git clone [copy the clone link]
+
+ls -la
+
+authorized key file created 
+
+Step 6:
+
+ cd prosan-poc-01/
+
+ls-la
+
+check if you can see azure-pipeline.yml,git
+
+step 7:
+
+check the branch 
+
+git checkout [stays in main branch]
+
+step 8:
+
+change to your branch 
+
+git checkout anusha-20230320
+
+step 9:
+
+run play books
+
+vi playbook-add-user.yml
+ansible-playbook playbook-add-user.yml
+
+step 10:
+
+git add * 
+
+git commit -m "ISSUE-5 anuthottempudi9@gmail.com Ansible tasks"
+
+All the exicuted playbook shows up
+ 
+
+git configure --global user.name "anuthottempudi9@gmail.com"
+git configure --global user.email "anuthottempudi9@gmail.com"
+
+git push
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
