@@ -1,3 +1,5 @@
+docker pull nginx
+docker pull busybox
 docker pull centos:centos8.4.2105
 docker run -t -d centos sh
 docker exec -it 9412c473340569a70964b64ce4399e3c5b824405450267aadf30496aae68ee00 sh
