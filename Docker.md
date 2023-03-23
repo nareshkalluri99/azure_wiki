@@ -26,3 +26,5 @@ Note: If we need to run the file externally that is inside of the container use 
 6. WORKDIR — It is used to set the directory that we are going to work. If we are adding some files from host local machine and saves in the container, the working directory path is the default directory
 
 7. ENTRYPOINT — The command the executes inside of container. like server running command in httpd container, bash shell in Ubuntu
+
+![docker-1.jpg](/.attachments/docker-1-6e34822f-12f5-4ba7-981b-c851282523b9.jpg)![docker-2.jpg](/.attachments/docker-2-08b7924c-366a-4c2d-84f5-cf1ef02cdacb.jpg)
