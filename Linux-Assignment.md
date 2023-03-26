@@ -20,3 +20,5 @@ show the directory where the configuration files are installed after software in
 [anusha-linux assignment-linux.txt](/.attachments/anusha-linux%20assignment-linux-2401a1c2-2bb9-4105-83fd-f79277b1b571.txt)
 
 [sai-assignment-linux.txt](/.attachments/sai-assignment-linux-cfd2281b-58a4-4664-a7db-3687b74713a7.txt)
+
+[sushma-Linux assignment.txt](/.attachments/sushma-Linux%20assignment-5013d3cd-ba21-4798-966b-18a7a3bad0ff.txt)
