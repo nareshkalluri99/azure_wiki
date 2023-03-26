@@ -1,0 +1,53 @@
+Linux assignment
+
+Commands used for Nginx installation:
+sudo yum install nginx
+sudo systemctl start nginx
+sudo systemctl status nginx
+sudo systemctl enable nginx
+
+Commands used for httpd installation:
+sudo dnf install httpd
+If you also plan to configure Apache to serve content over HTTPS, you will also want to open up port 443 by    	enabling the https service:
+sudo firewall-cmd --permanent --add-service=https
+Next, reload the firewall to put these new rules into effect:
+sudo firewall-cmd --reload
+sudo systemctl start httpd
+sudo systemctl status httpd
+sudo systemctl enable httpd
+sudo systemctl stop httpd
+sudo systemctl restart httpd
+
+
+grep for nginx with rpm -qa command
+rpm -qa | grep nginx
+
+
+create a directory in /opt folder with name dir1
+cd/opt
+mkdir dir1
+
+create a file in dir1 with name work.log
+cd/dir1
+touch work.log
+
+write the output to work.log file for the following commands lscpu, df -h, free -mh
+By using vi command we will create file
+vi work.log
+By using "i" command we will insert the text
+By using "ESC, :wq, enter" commands we will save the file
+By using "cat" command we print the text
+
+change the file permissions to 777 of work.log
+
+chmod ("/dir1/work.log",777)
+
+change the ownership to both user and group with name nobody:nobody
+chown nobody:nobody work.log
+
+list the root directory
+sudo -i
+ls -la
+
+show the directory where the configuration files are installed after software installation
+whereis ngnix
