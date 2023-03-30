@@ -1,3 +1,18 @@
+03-29-2023
+Terraform - part 2
+https://us06web.zoom.us/rec/share/AFQLWkWkMC-KO9mNI3BOyxLPU-FQeEQsOkNlFiWfBAsJDMVEKBuFIP5A7gbplZKd.95kcAx45OA2ir-Lu 
+Passcode: Zn3u?LGf
+
+03-27-2023
+Terraform - part 1
+https://us06web.zoom.us/rec/share/VQiwunGZmKBcBScQcnjSYuGGADbKloMm3BD60GInBAVNwvssYq93OWNIkZuDgaFf.UhxsP5DmW36BDRfh 
+Passcode: 0D?wLTJZ
+
+03-23-2023
+Docker - part 3
+https://us06web.zoom.us/rec/share/yaxQkW7P637wPs9VL0G_LttB0dohO-gB-McVISBZtCbkd3UpPjyRfWNZQ8eJZAaC.UUum3NOq6MgVEIMc 
+Passcode: Kv#3h@%n
+
 03-22-2023
 Docker-part 2
 https://us06web.zoom.us/rec/share/RurKcTEFsOJghKOgnW6IOYApO0CHc7SWK-_0v6fdJEu-OjXZfcCKHuMxkEkn11ft.PwxBENwV7sIpu0Jn 
