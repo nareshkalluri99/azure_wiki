@@ -1,3 +1,8 @@
+03-30-2023
+Jenkins - part 1
+https://us06web.zoom.us/rec/share/qUt38TJfxfNa4RykJkEGPfP_ioRODAw5ECWL0b8ZfGzoDfvkZbxF9eRGB8PDOUKt.pz5Pgyx_c2Shr2_4 
+Passcode: vq1$L3DB
+
 03-29-2023
 Terraform - part 2
 https://us06web.zoom.us/rec/share/AFQLWkWkMC-KO9mNI3BOyxLPU-FQeEQsOkNlFiWfBAsJDMVEKBuFIP5A7gbplZKd.95kcAx45OA2ir-Lu 
