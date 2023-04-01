@@ -1,3 +1,6 @@
+FAQ interview questions:
+https://www.knowledgehut.com/interview-questions/docker
+
 Resources:
 https://docker-curriculum.com/
 https://labs.play-with-docker.com/
