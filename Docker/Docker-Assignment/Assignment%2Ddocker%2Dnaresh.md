@@ -1,6 +1,6 @@
 # **Task-1:**
 
-**Created an Docker account and logged on to my docker desktop.**
+**Created an Docker account and logged in to my docker desktop.**
 
 ![Screenshot 2023-04-03 at 10.59.18 AM.png](/.attachments/Screenshot%202023-04-03%20at%2010.59.18%20AM-82f7a54b-ad53-4865-b118-d8b5a55b5789.png)
 
