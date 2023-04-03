@@ -1,3 +1,10 @@
+04-03-2023
+CICD - part 1
+
+04-01-2023
+jenkins - part 2
+https://us06web.zoom.us/rec/share/Fk2ivzSl6punpF00E0fDnjVpbZwplL81_JXOGZI_IxaSit6DhkQdCQkWOOrV9LA_.l57MWrnaBgPkYaJR 
+Passcode: Q8HZ.ZRj
 03-30-2023
 Jenkins - part 1
 https://us06web.zoom.us/rec/share/qUt38TJfxfNa4RykJkEGPfP_ioRODAw5ECWL0b8ZfGzoDfvkZbxF9eRGB8PDOUKt.pz5Pgyx_c2Shr2_4 
