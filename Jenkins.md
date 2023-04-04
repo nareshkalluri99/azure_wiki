@@ -7,3 +7,6 @@ P@ssword1234
 
 Pipeline script explanation and demo:
 https://codefresh.io/learn/jenkins/jenkins-pipeline-examples-usage-and-best-practices/
+
+Azure devops example
+https://www.programmingwithwolfgang.com/create-a-docker-image-in-an-azure-devops-ci-pipeline/
