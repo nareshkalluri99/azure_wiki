@@ -10,3 +10,6 @@ https://codefresh.io/learn/jenkins/jenkins-pipeline-examples-usage-and-best-prac
 
 Azure devops example
 https://www.programmingwithwolfgang.com/create-a-docker-image-in-an-azure-devops-ci-pipeline/
+
+To Read:
+https://medium.com/@bhongaleprathamesh/gitlab-vs-jenkins-which-is-the-best-ci-cd-tool-e0eaf10acda0
