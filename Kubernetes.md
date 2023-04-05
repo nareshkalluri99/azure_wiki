@@ -1,0 +1,1 @@
+https://medium.com/@hiamitchaurasia/getting-started-with-minikube-on-windows-kubernetes-5da2049a7f5f
