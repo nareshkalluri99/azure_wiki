@@ -13,3 +13,5 @@ https://www.programmingwithwolfgang.com/create-a-docker-image-in-an-azure-devops
 
 To Read:
 https://medium.com/@bhongaleprathamesh/gitlab-vs-jenkins-which-is-the-best-ci-cd-tool-e0eaf10acda0
+
+https://medium.com/@shadaabsikander/ci-cd-pipeline-with-jenkins-ansible-git-apache-7e624dbac00b ( pipeline example)
