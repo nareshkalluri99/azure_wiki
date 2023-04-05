@@ -1,0 +1,1 @@
+https://jyeee.medium.com/simplest-basic-helm-chart-tutorial-with-rancher-desktop-k8s-7b87c85d960e
