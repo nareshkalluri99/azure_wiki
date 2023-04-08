@@ -1,5 +1,27 @@
+04-07-2023
+Azure part 2
+https://us06web.zoom.us/rec/share/Hn87un1Jik0dAPyYjLW6BbBTiubUd--wG8osBygUjiRBXHDstO93NQYciL_XFsV8.NBMOmOXq21BJetbT 
+Passcode: rK=&U9GK
+
+04-06-2023
+Azure part 1
+https://us06web.zoom.us/rec/share/I5D1scWBKnMfRh9w51oM7q3aV_QgBKIHjvMFB5YlrJtt5UosO_zBrbSQAUjoBdAI.S-rWZHO23dTknizh 
+Passcode: !Lk5c*u.
+
+04-05-2023
+CICD part 3
+https://us06web.zoom.us/rec/share/bt0fzdkcl5Gkat9vgpmgiRGFRRiizNLpu0KmFWNcoxkmUhQMwKZpdC6ag_YCfMnf.MeipkgStei3H2Zxk 
+Passcode: !Lk5c*u.
+
+04-04-2023
+CICD part 2
+https://us06web.zoom.us/rec/share/JrgX9L7H-V4fI96ycWt2eLhYXPqOjlmtmKMI17j5ok4zHRF-vudBmwxAS4B4xg.Hcm8xXbM7SwDCI6J 
+Passcode: D25@!Qa&
+
 04-03-2023
 CICD - part 1
+https://us06web.zoom.us/rec/share/eIEGQLQQU_-Wxi-tvg9t9_w3tmBA96IvQ1bGvwNZW1jQNjgrN0FOTDp-R_r5N23Y.cpsKm6YAcqYC4_fd 
+Passcode: 9F^fk0PK
 
 04-01-2023
 jenkins - part 2
