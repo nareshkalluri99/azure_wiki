@@ -1,3 +1,8 @@
+04-08-2023
+Azure Part 3
+https://us06web.zoom.us/rec/share/pO4kZflXqJj3xrs5tgt9VqJxydC6uRPlArhHkRpX9eFpyiegGhxvA8P4NKg-OGe9.g-aXfFjSLrH6XAuw 
+Passcode: 02T5*bQ8
+
 04-07-2023
 Azure part 2
 https://us06web.zoom.us/rec/share/Hn87un1Jik0dAPyYjLW6BbBTiubUd--wG8osBygUjiRBXHDstO93NQYciL_XFsV8.NBMOmOXq21BJetbT 
