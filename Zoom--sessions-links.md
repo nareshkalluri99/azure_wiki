@@ -1,3 +1,8 @@
+04-10-2023
+Azure Part 4 IAM, Load Balancing, Scalesets
+https://us06web.zoom.us/rec/share/iVBE-UBoH-ILgKQopwN5UctTPJEnQ07COYwcNi7kvawA_zt9fdztGUlQcwiC1LHC.oQOoagSSA2DgQ4gx 
+Passcode: RAuS5i==
+
 04-08-2023
 Azure Part 3
 https://us06web.zoom.us/rec/share/pO4kZflXqJj3xrs5tgt9VqJxydC6uRPlArhHkRpX9eFpyiegGhxvA8P4NKg-OGe9.g-aXfFjSLrH6XAuw 
