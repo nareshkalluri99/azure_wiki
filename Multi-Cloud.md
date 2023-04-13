@@ -1,11 +1,11 @@
 
-|  Azure|AWS  |GCP  |Oracle  |
-|--|--|--|--|
-|Compute  |  |  |  |
-|Network  |  |  |  |
-|database  |  |  |  |
-|object storage  |  |  |  |
-|container registry  |  |  |  |
-|cicd  |  |  |  |
-|logs  |  |  |  |
-
+|                    | Azure | GCP | AWS |
+|--------------------|-------|-----|--------|
+| Compute            |  computer     | compute    | Ec2       |
+| Network            |    Vnet   | VPC    | VPC       |
+| database (SQL)          |       |     |        |
+| object storage     |  storage Account      | Cloud Storage    |   S3     |
+| container registry |       |     |        |
+| cicd               |       |     |        |
+| logs               |       |     |        |
+|No SQL|||
