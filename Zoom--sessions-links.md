@@ -1,3 +1,13 @@
+04-12-2023
+Azure - Part 6 Database, App services
+https://us06web.zoom.us/rec/share/jHnaIFLRG4X1k3Cs0f2sXYNEGENxmtPNSo5_bM_yMt1mY0KzhaCS07Gk-Qv2oFA.xkx0qeBNw_uFTL7y 
+Passcode: %ns7Im^r
+
+04-11-2023
+Azure - Part 5 Database theory, No SQL database
+https://us06web.zoom.us/rec/share/dmRry3q2MRFdCK2bSPDk5q_4xV688D3DU5dQBMZESnxQ7Ak1jcKuthQGWvOw_7PJ.T52n9QwYCwYb-3PP 
+Passcode: 0a.CgLz9
+
 04-10-2023
 Azure Part 4 IAM, Load Balancing, Scalesets
 https://us06web.zoom.us/rec/share/iVBE-UBoH-ILgKQopwN5UctTPJEnQ07COYwcNi7kvawA_zt9fdztGUlQcwiC1LHC.oQOoagSSA2DgQ4gx 
