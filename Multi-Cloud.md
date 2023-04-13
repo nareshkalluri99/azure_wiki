@@ -9,3 +9,5 @@
 | cicd               |       |     |        |
 | logs               |       |     |        |
 |No SQL|||
+|event driven| function APP||
+|Logs| Log ANalytics||
