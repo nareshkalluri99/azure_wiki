@@ -1,3 +1,8 @@
+04-13-2023
+Azure - Part 7 function APP, Event Hub
+https://us06web.zoom.us/rec/share/cYFGzYNA9dAS7DSMSDJMSiE2tV4N7liILAe-9KERVUAxy44dVzvOJej_Yqa3a5MZ.6rfT8rpfablr0dkh 
+Passcode: T1jAS#=c
+
 04-12-2023
 Azure - Part 6 Database, App services
 https://us06web.zoom.us/rec/share/jHnaIFLRG4X1k3Cs0f2sXYNEGENxmtPNSo5_bM_yMt1mY0KzhaCS07Gk-Qv2oFA.xkx0qeBNw_uFTL7y 
