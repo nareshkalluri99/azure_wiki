@@ -122,6 +122,8 @@ Create vnet,VM,k8s cluster in azure
 Login into host from VM , ssh and Edo
 Serverless vs server
 
+
+
 Course 9 : Kuberenetes 
 Architecture 
 What is node,pod,container
