@@ -9,7 +9,7 @@
 
 https://learn.microsoft.com/en-us/azure/app-service/quickstart-python?tabs=flask%2Cwindows%2Cazure-portal%2Clocal-git-deploy%2Cdeploy-instructions-azcli%2Cterminal-bash%2Cdeploy-instructions-zip-azcli#4---browse-to-the-app
 
-## Hosting web application on Azure App Services.
+## Hosting web application on Azure App Services:
 
 https://medium.com/@nirajranasinghe/hosting-your-first-web-application-on-azure-app-service-a-comprehensive-introduction-to-setting-up-90008c84e400
 
