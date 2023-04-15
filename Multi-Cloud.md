@@ -14,4 +14,5 @@
 |App Deployment| App Services|App Engine| Elastic BeanStalk|
 |Resource Creation Tools| ARM template|Deployment Manager| Cloud Formation|
 |CLI| az cli| gcloud cli| aws cli|
+|DNS| DNS ||Route 53|
 
