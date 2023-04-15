@@ -1,7 +1,7 @@
 
 |                    | Azure | GCP | AWS |
 |--------------------|-------|-----|--------|
-| Compute            |  computer     | compute    | Ec2       |
+| Compute            |Virtual Machine | Compute Engine    | Ec2       |
 | Network            |    Vnet   | VPC    | VPC       |
 | Database (SQL)          |  SQL Database     | Cloud SQL |Amazon RDS       |
 | Object storage     |  storage Account      | Cloud Storage    |   S3     |
