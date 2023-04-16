@@ -1,3 +1,8 @@
+04-15-2023
+Azure - Part 8 DNS, WAF, CDN , Kubernetes - part 1
+https://us06web.zoom.us/rec/share/RITucKf4Dvm55e0WojZ2ylQ-6m6BsC8tMbnWQq9wAYxhBdsmQ25H2J85tHwVKnLh.TS_RPSWPDpiAekxK 
+Passcode: 2?6sCzN!
+
 04-13-2023
 Azure - Part 7 function APP, Event Hub
 https://us06web.zoom.us/rec/share/cYFGzYNA9dAS7DSMSDJMSiE2tV4N7liILAe-9KERVUAxy44dVzvOJej_Yqa3a5MZ.6rfT8rpfablr0dkh 
