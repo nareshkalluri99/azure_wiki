@@ -1,0 +1,3 @@
+Azure
+GCP
+AWS
