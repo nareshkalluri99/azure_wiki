@@ -1,3 +1,7 @@
+04-16-2023
+Kubernetes - part 2 api's , workload types
+https://youtu.be/oMJK8HkjgW0
+
 04-15-2023
 Azure - Part 8 DNS, WAF, CDN , Kubernetes - part 1
 https://us06web.zoom.us/rec/share/RITucKf4Dvm55e0WojZ2ylQ-6m6BsC8tMbnWQq9wAYxhBdsmQ25H2J85tHwVKnLh.TS_RPSWPDpiAekxK 
