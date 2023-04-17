@@ -1,0 +1,1 @@
+https://www.pragimtech.com/blog/azure/azure-tutorials-for-beginners/
