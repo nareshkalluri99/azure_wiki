@@ -1,4 +1,4 @@
-`Course 0: Basics and Terminology
+Course 0: Basics and Terminology
 Jump host,IDE,VPN( virtual private Network)
 Terminal
 Rdp ( remote desktop protocol)
@@ -187,4 +187,3 @@ Course 0: Basics and Ter
 Jump host,Ide,VPN,Terminal,Rdp,Port,Firewall,Ingress,EgressLog file,Yaml file,JSON file,Shell,script file ,Tf file,Shell ,Cidr,Subnet,Error ,Warning ,Repository ,Automation,Base64,Secrets,File extensions
 
 
-`
