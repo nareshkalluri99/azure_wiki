@@ -11,3 +11,6 @@ docker run -d --restart=unless-stopped -p 80:80 -p 443:443 --privileged rancher/
 go to the browser and enter "localhost:80" then follow instructions to get the password to enter into rancher
 
 you don't have the grep command in windows so remove the grep item and see the logs for bootstrap password.
+
+![kubernetes-part1.jpg](/.attachments/kubernetes-part1-5eb111ac-7c06-47fc-a98b-233e0bfb3416.jpg)
+
