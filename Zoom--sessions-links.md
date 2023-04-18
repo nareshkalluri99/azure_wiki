@@ -1,3 +1,7 @@
+04-17-2023
+Kubernetes - part 3 services and storage classes
+https://youtu.be/AKKJb_axLSg
+
 04-16-2023
 Kubernetes - part 2 api's , workload types
 https://youtu.be/oMJK8HkjgW0
