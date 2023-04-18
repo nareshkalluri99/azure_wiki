@@ -60,3 +60,9 @@ If you see i have the image now with name nginx and tag v1 on ACR.
 
 
 
+## Reference: 
+
+https://jonnychipz.com/2021/02/22/create-and-push-a-docker-image-to-azure-container-registry/
+
+
+
