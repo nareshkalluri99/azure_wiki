@@ -1,3 +1,6 @@
+04-18-2023
+Kuberntes - part 4 configmaps, secrets, jobs, 
+
 04-17-2023
 Kubernetes - part 3 services and storage classes
 https://youtu.be/AKKJb_axLSg
