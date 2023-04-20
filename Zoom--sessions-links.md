@@ -1,3 +1,11 @@
+04-20-2023
+kubernetes - part 6 
+
+
+04-19-2023
+kubernetes - part 5 upgrade , cordon, drain, taints & tolerations, HPA, resource quota
+https://youtu.be/JtE0WpApslw
+
 04-18-2023
 Kuberntes - part 4 configmaps, secrets, jobs, jsonpath
 https://youtu.be/vWHBoS5rX_M
