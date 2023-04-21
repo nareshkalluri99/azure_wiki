@@ -1,6 +1,6 @@
 04-20-2023
-kubernetes - part 6 
-
+kubernetes - part 6 service accounts, clusterrole, cluterrolebinding, helm chart, prometheus, grafana, monitoring
+https://youtu.be/IhtRpcRmoGg
 
 04-19-2023
 kubernetes - part 5 upgrade , cordon, drain, taints & tolerations, HPA, resource quota
