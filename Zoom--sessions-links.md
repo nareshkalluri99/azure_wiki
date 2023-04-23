@@ -1,3 +1,15 @@
+04-23-2023
+Misc
+
+
+04-22-2023
+Kubernetes - part 8 logging, logstash installation and usage
+https://youtu.be/XErcusfGYG0
+
+04-21-2023
+kubernetes - part 7 helm charts, grafana metric graps
+https://www.youtube.com/watch?v=54fByyYO_cw
+
 04-20-2023
 kubernetes - part 6 service accounts, clusterrole, cluterrolebinding, helm chart, prometheus, grafana, monitoring
 https://youtu.be/IhtRpcRmoGg
